@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import openpyxl
 
 # Define initial expense categories and keywords
 categories = {
